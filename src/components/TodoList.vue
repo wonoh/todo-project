@@ -40,9 +40,6 @@
             ]
           }
       },
-      mounted() {
-          console.log('component mounted')
-      },
       methods:{
         /**
          * todo name 을 입력받아 (input tag v-model="name") todoList push
