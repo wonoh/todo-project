@@ -1,6 +1,6 @@
 # todo-project
 
-> A Vue.js project
+> vue.js 로 구현해보는 todo-project
 
 ## Build Setup
 
